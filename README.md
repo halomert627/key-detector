@@ -24,7 +24,5 @@ DAW (FL Studio, Ableton vb.) için geliştirilmiş web tabanlı müzik analiz ar
 - Goertzel algoritması — audio chromagram analizi
 - Web Audio API
 
-## Geliştirme Notları
 
-- Chord progression önerileri: minör ve majör için 6'şar adet
 
