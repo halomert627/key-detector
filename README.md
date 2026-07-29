@@ -14,7 +14,7 @@ DAW (FL Studio, Ableton vb.) için geliştirilmiş web tabanlı müzik analiz ar
 
 ## Kullanım
 
-`index.html` dosyasını tarayıcıda aç — kurulum gerekmez.
+`index.html` 
 
 ## Teknolojiler
 
@@ -27,4 +27,4 @@ DAW (FL Studio, Ableton vb.) için geliştirilmiş web tabanlı müzik analiz ar
 ## Geliştirme Notları
 
 - Chord progression önerileri: minör ve majör için 6'şar adet
-- Gelecek: ses çalma, daha geniş oktav aralığı, voice leading
+
